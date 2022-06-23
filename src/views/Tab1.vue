@@ -11,7 +11,7 @@
           <ion-title size="large">Recipes</ion-title>
         </ion-toolbar>
       </ion-header>
-        no fucking clue.. cod fish and penises 
+        cod fish stew .... :(
     </ion-content>
   </ion-page>
 </template>

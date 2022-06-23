@@ -15,7 +15,6 @@
       Salted Codfish - 50lbs <br>
       Olive oil - none <br>
       Butter - none <br>
-      Whale penises - 10lb  <br>
     </ion-content>
   </ion-page>
 </template>
